@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version && git push --follow-tags",
+    "release": "standard-version && git push --follow-tags origin master",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
