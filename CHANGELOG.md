@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [](https://github.com/Pranaydeepreddy7017/All-hands/compare/v1.0.1...v) (2023-02-17)
+## [1.1.0](https://github.com/Pranaydeepreddy7017/All-hands/compare/v1.0.1...v1.1.0) (2023-02-17)
+
+
+### Features
+
+* add a feature ([ba8bc18](https://github.com/Pranaydeepreddy7017/All-hands/commit/ba8bc18be5e05cc2666e5c16fb9db1b4ab9ad12f))
 
 
 ### Bug Fixes
